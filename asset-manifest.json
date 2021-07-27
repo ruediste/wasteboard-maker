@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wasteboard-maker/static/css/main.bced245b.chunk.css",
+    "main.js": "/wasteboard-maker/static/js/main.40c1b6a5.chunk.js",
+    "main.js.map": "/wasteboard-maker/static/js/main.40c1b6a5.chunk.js.map",
+    "runtime-main.js": "/wasteboard-maker/static/js/runtime-main.880d6241.js",
+    "runtime-main.js.map": "/wasteboard-maker/static/js/runtime-main.880d6241.js.map",
+    "static/js/2.26d0e6f5.chunk.js": "/wasteboard-maker/static/js/2.26d0e6f5.chunk.js",
+    "static/js/2.26d0e6f5.chunk.js.map": "/wasteboard-maker/static/js/2.26d0e6f5.chunk.js.map",
+    "static/js/3.e048e1ba.chunk.js": "/wasteboard-maker/static/js/3.e048e1ba.chunk.js",
+    "static/js/3.e048e1ba.chunk.js.map": "/wasteboard-maker/static/js/3.e048e1ba.chunk.js.map",
+    "index.html": "/wasteboard-maker/index.html",
+    "static/css/main.bced245b.chunk.css.map": "/wasteboard-maker/static/css/main.bced245b.chunk.css.map",
+    "static/js/2.26d0e6f5.chunk.js.LICENSE.txt": "/wasteboard-maker/static/js/2.26d0e6f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.880d6241.js",
+    "static/js/2.26d0e6f5.chunk.js",
+    "static/css/main.bced245b.chunk.css",
+    "static/js/main.40c1b6a5.chunk.js"
+  ]
+}

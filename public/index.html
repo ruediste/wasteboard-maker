@@ -25,12 +25,21 @@
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
     <title>Wasteboard Maker</title>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-92460241-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-92460241-1');
+    </script>
   </head>
   <body>
     <h1> Wasteboard Maker </h1>
     <p> This is a tool to create the G code needed to create a so called wasteboard for DIY CNC mills. It typically consists of an MDF plate with grid of holes in it. Threaded inserts are placed into the holes. </p>
     <p> Fill in the arguments below and copy or save the resulting G code. All arguments are kept in the page URL, so simply bookmarking the page will save all arguments.</p>
-    <img width="400px" src="wasteboard.jpg"/>
+    <img width="400px" src="%PUBLIC_URL%/wasteboard.jpg"/>
 
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
